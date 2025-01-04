@@ -1,0 +1,5 @@
+#Required libraries
+
+Pandas (https://pandas.pydata.org/pandas-docs/stable/index.html)
+
+OpenPyXL (https://openpyxl.readthedocs.io/en/stable/index.html)
